@@ -1,0 +1,1 @@
+`/usr/bin/hd /flag | cut -d "|" -f 2 | tr -d '[:space:]' | cut -d "." -f -3`
